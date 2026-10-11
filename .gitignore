@@ -25,3 +25,6 @@ Thumbs.db
 
 # Large local root media duplicate
 AgriRoute_Intelligence_Demo_Video.mp4
+
+# Scripts with credentials
+push_to_aces.ps1
